@@ -110,8 +110,7 @@
       img{
         border:solid 36px var(--secondary-color);
         border-radius: 10px;
-        max-width: 500px;
-        max-height: 500px;
+
       }
  
       .skill {
