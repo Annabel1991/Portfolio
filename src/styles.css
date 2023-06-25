@@ -184,4 +184,8 @@
       @media (max-width: 576px) {
         h1 {
           font-size: 70px;}
-          h3{font-size:20px;}}
+          h3{font-size:20px;}
+          img{
+            max-width: 300px;
+            max-height: 300px;
+          }}
